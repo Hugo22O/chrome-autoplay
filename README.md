@@ -62,7 +62,7 @@ You might be wondering what some of the arguments actually mean, so I'll explain
 
 The rest should be pretty much self explanatory. 
 
-More information on the autoplay policy can be found in Google's help article (which I found not to b helpfull at all): https://developers.google.com/web/updates/2017/09/autoplay-policy-changes
+More information on the autoplay policy can be found in Google's help article (which I found not to be helpfull at all): https://developers.google.com/web/updates/2017/09/autoplay-policy-changes
 
 ## License
 
