@@ -57,8 +57,8 @@ You might be wondering what some of the arguments actually mean, so I'll explain
 
 
 * The `--kiosk` makes Chrome start in fullscreen mode. 
-* The `--autoplay-policy=no-user-gesture-required` Makes Chrome set the autoplay-policy to `no-user-gesture-required`. Just like we wanted. 
-* The webaddress `https://www.google.com/` Just makes Chrome open the specified web address. 
+* The `--autoplay-policy=no-user-gesture-required` makes Chrome set the autoplay-policy to `no-user-gesture-required`. Just like we wanted. 
+* The webaddress `https://www.google.com/` just makes Chrome open the specified web address. 
 
 The rest should be pretty much self explanatory. 
 
