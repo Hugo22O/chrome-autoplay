@@ -1,6 +1,6 @@
-# chrome-autoplay
+# How to enable Chrome Autoplay? 
 
-Having trouble enabling Chrome autoplay? Here's a solution
+Having trouble **enabling** Chrome autoplay? Here's a solution
 
 ## Introduction
 
@@ -13,7 +13,7 @@ Google introduced a new flag in Chrome 61 which gives users of the web browser c
 
 
 
-I found my self not being able to find the autoplay policy by browsing to chrome://flags/#autoplay-policy. Like suggested in multiple online forums. I found all answers out to date and had a hard time finding an answer to my question: *How can I **enable** autoplay so my videos automatically start playing, this is a must for my kiosk application.* 
+I found my self not being able to find the autoplay policy by browsing to chrome://flags/#autoplay-policy. Like suggested in multiple online forums. I found all answers out to date and had a hard time finding an answer to my question: *How can I **enable** autoplay so my videos automatically start playing* as this was a requirement for my kiosk application.
 
 
 ## The autoplay policy
