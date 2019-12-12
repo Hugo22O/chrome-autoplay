@@ -62,9 +62,11 @@ You might be wondering what some of the arguments actually mean, so I'll explain
 
 The rest should be pretty much self explanatory. 
 
+More information on the autoplay policy can be found in Google's help article (which I found not to b helpfull at all): https://developers.google.com/web/updates/2017/09/autoplay-policy-changes
 
-More information on the autoplay policy can be found in Google's help article (which I found not to b helpfull at all): https://developers.google.com/web/updates/2017/09/autoplay-policy-changes(https://developers.google.com/web/updates/2017/09/autoplay-policy-changes)
+## License
 
+This guide is licensed under the MIT license, you can view the license here: https://github.com/Hugo22O/chrome-autoplay/blob/master/LICENSE
 
 
 
