@@ -19,7 +19,7 @@ I found my self not being able to find the autoplay policy by browsing to chrome
 ## The autoplay policy
 
 
-By default the autoplay policy is set to *User gesture is required -- Users don't need to interact with the document for video or audio sources to start playing automatically.* 
+By default the autoplay policy is set to *User gesture is required -- Users need to interact with the document for video or audio sources to start playing automatically.* 
 
 THe autoplay policy has three different options: 
 
