@@ -21,7 +21,7 @@ I found my self not being able to find the autoplay policy by browsing to chrome
 
 By default the autoplay policy is set to *User gesture is required -- Users need to interact with the document for video or audio sources to start playing automatically.* 
 
-THe autoplay policy has three different options: 
+The autoplay policy has three different options: 
 
 * **Default** -- Document user activation is required -- Users need to interact with the document before audio or video content is played automatically.
 * No user gesture is required -- Users don't need to interact with the document for video or audio sources to start playing automatically.
@@ -33,7 +33,7 @@ THe autoplay policy has three different options:
 If you're lucky you're able to set the autoplay policy by navigating to chrome://flags/#autoplay-policy in your chrome broswer.
 
 
-However, I found that I and other people were unable to locate the autoplay policy in Google Chrome, and found it to be presumably removed from the flags list in Google Chrome. 
+However, I found that I myself and other people were unable to locate the autoplay policy in Google Chrome, and found it to be presumably removed from the flags list in Google Chrome. 
 
 
 My kiosk application launches from a batch script, adding the following argument to my code set the autoplay policy to _No user gesture is required -- Users don't need to interact with the document for video or audio sources to start playing automatically._ This suited me best as I needed the page to autoplay the videos displayed. 
