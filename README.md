@@ -1,6 +1,6 @@
 # How to enable Chrome Autoplay? 
 
-Having trouble **enabling** Chrome autoplay? Here's a solution
+Having trouble **enabling** Chrome autoplay? Here's a solution.
 
 ## Introduction
 
