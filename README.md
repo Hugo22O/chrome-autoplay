@@ -1,6 +1,6 @@
 # How to enable Chrome Autoplay? 
 
-Having trouble **enabling** Google Chrome's  autoplay policy? Here's a solution.
+Having trouble **enabling** Google Chrome's  autoplay policy? Here's a how-to on enabling Google Chrome's autoplay policy. 
 
 ## Introduction
 
